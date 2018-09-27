@@ -1,6 +1,6 @@
 // write your code below!
 
-var string = 'Happy Holidays';
+string = 'Happy Holidays';
 
 describe ('functions'){
   describe ('happyHolidays'){
