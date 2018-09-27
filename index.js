@@ -22,8 +22,8 @@ describe ('happyHolidayTo(holiday,name'){
 }
 
 describe ('holidayCountdown(holiday,days)'){
-  it('returns "It\'s ${days} until Moniques Birthday!"'){
-    expect (holidayCountdown("Birthday,345")).toEqual("Its 345 days until Moniques Birthday!")
+  it('returns "It\'s ${days} days until ${holiday}!"'){
+    expect (holidayCountdown("Monique\'s Birthday,345")).toEqual("Its 345 days until Monique\'s Birthday!")
     }
   }
 }
