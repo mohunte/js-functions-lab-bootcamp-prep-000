@@ -28,6 +28,6 @@ describe ('holidayCountdown(holiday,days)'){
   }
 }
 
-function happyHolidays(string){
+function happyHolidays () {
   return "Happy Holidays!";
 }
