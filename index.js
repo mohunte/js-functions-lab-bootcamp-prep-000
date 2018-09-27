@@ -1,6 +1,6 @@
 // write your code below!
 
-global.expect = require('expect');
+
 
 
 describe ('functions'){
