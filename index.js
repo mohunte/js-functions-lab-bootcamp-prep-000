@@ -1,5 +1,6 @@
 // write your code below!
-global.expect = require
+
+global.expect = require('expect');
 
 
 describe ('functions'){
