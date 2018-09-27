@@ -1,5 +1,7 @@
 // write your code below!
 
+var string = 'Happy Holidays';
+
 describe ('functions'){
   describe ('happyHolidays'){
     it('returns "Happy Holidays!"'){
@@ -25,3 +27,5 @@ describe ('holidayCountdown(Birthday, 345)'){
     }
   }
 }
+
+function happyHolidays ()
