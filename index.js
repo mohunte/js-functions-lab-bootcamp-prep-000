@@ -1,6 +1,6 @@
 // write your code below!
 
-string = 'Happy Holidays';
+
 
 describe ('functions'){
   describe ('happyHolidays'){
