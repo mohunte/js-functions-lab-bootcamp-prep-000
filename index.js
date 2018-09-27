@@ -16,6 +16,8 @@ describe ('happyHolidaysToMonique'){
 
 describe ('happyHolidayTo(Birthday, Monique'){
   it('returns "Happy Birthday, Monique!"'){
-    expect (happyHoliday)
+    expect (happyHolidayTo('Birthday, Monique')).toEqual('Happy Birthday, Monique!')
   }
 }
+
+describe ('holidayCountdown()
