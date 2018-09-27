@@ -10,7 +10,7 @@ describe ('functions'){
   }
 
 describe ('happyHolidaysTo(name)'){
-  it('returns "Happy Holidays, Monique"'){
+  it('returns "Happy Holidays, ${name}"'){
     expect (happyHolidaysToMonique).toEqual('Happy Holidays, Monique!')
   }
 }
